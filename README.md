@@ -24,7 +24,7 @@ Somos uma empresa brasileira de software fundada por desenvolvedores full‑stac
 ### App Turístico
 Plataforma para moradores e turistas de Caldas Novas (GO) com vagas de emprego, serviços locais e, em breve, e‑commerce local com modelo de comissão.
 
-### ERP IndicaCode  
+### ERP  
 (Em Desenvolvimento)
 
 ---
